@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udemycsharp", "udemycsharp\udemycsharp.csproj", "{611F9326-4D5F-467E-9227-5A96008FF42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611F9326-4D5F-467E-9227-5A96008FF42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611F9326-4D5F-467E-9227-5A96008FF42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611F9326-4D5F-467E-9227-5A96008FF42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611F9326-4D5F-467E-9227-5A96008FF42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
