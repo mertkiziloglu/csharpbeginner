@@ -26,9 +26,9 @@ namespace araba
                     {
                         System.Console.WriteLine("{0} {1} calisti .",Marka,Model);
                     }
-                   public void durdu() 
+                   public void Duruyor() 
                    { 
-                       System.Console.WriteLine("{0} {1} durdu.",Marka,Model);
+                       System.Console.WriteLine("{0} {1} Duruyor.",Marka,Model);
                    } 
                     
                    public void hızlandi()
@@ -57,7 +57,7 @@ namespace araba
                     bmw.start();
                     bmw.hızlandi();
                     bmw.yavasladi();
-                    bmw.durdu();
+                    bmw.Duruyor();
 
                     int sonuc=Hesaplama.Toplama(10, 20);
                     Console.WriteLine(sonuc);

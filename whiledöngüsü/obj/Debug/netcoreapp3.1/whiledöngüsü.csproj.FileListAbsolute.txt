@@ -1,0 +1,11 @@
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.exe
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.deps.json
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.runtimeconfig.json
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.runtimeconfig.dev.json
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.dll
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\bin\Debug\netcoreapp3.1\whiledöngüsü.pdb
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\obj\Debug\netcoreapp3.1\whiledöngüsü.csprojAssemblyReference.cache
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\obj\Debug\netcoreapp3.1\whiledöngüsü.AssemblyInfoInputs.cache
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\obj\Debug\netcoreapp3.1\whiledöngüsü.AssemblyInfo.cs
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\obj\Debug\netcoreapp3.1\whiledöngüsü.dll
+C:\Users\90537\RiderProjects\ConsoleApp2\whiledöngüsü\obj\Debug\netcoreapp3.1\whiledöngüsü.pdb

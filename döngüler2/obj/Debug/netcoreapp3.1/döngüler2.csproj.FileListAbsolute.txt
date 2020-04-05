@@ -1,0 +1,11 @@
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.exe
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.deps.json
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.runtimeconfig.json
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.runtimeconfig.dev.json
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.dll
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\bin\Debug\netcoreapp3.1\döngüler2.pdb
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\obj\Debug\netcoreapp3.1\döngüler2.csprojAssemblyReference.cache
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\obj\Debug\netcoreapp3.1\döngüler2.AssemblyInfoInputs.cache
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\obj\Debug\netcoreapp3.1\döngüler2.AssemblyInfo.cs
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\obj\Debug\netcoreapp3.1\döngüler2.dll
+C:\Users\90537\RiderProjects\ConsoleApp2\döngüler2\obj\Debug\netcoreapp3.1\döngüler2.pdb
