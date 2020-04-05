@@ -37,7 +37,7 @@ namespace ConsoleApp1
                 }
             }
 
-            Console.WriteLine("Aradıginiz kelime "+sayac+" kadardir.");
+            Console.WriteLine("Aradiginiz kelime "+sayac+" kadardir.");
             
         }
     }
