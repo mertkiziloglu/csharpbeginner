@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\90537\\RiderProjects\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+    "projectName": "TicTacToe",
+    "projectPath": "C:\\Users\\90537\\RiderProjects\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+    "outputPath": "C:\\Users\\90537\\RiderProjects\\TicTacToe\\TicTacToe\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net472"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net472": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net472": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}
