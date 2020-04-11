@@ -9,7 +9,7 @@ namespace Inharietance
             Person[] persons=new Person[3]
             {
                 new Customer {FirstName = "mert"}, 
-                new Student {FirstName = "mehmet"}, 
+                new Student {FirstName = "Kiziloglu"}, 
                 new Person {FirstName = "kübra"}
             };
             
